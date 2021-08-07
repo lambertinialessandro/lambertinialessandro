@@ -1,5 +1,5 @@
 
-## Hi there , I'm [lambertinialessandro!]() 👋
+# Hi there , I'm [lambertinialessandro!]() 👋
 
 <h1>Work in Progress!! 👷</h1>
 
@@ -9,7 +9,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c14438?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lambertinialessandro/)](https://www.instagram.com/lambertinialessandro/)
 -->
 
-## ⚡ Technologies
+# ⚡ Technologies
 
 
 ![Java](https://img.shields.io/badge/-java-E34F26?style=flat-square&logo=java)
@@ -34,7 +34,7 @@
 
 <br />
 
-### Connect with me:
+# Contact me:
 
 <a href="https://github.com/lambertinialessandro">
   <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
