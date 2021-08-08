@@ -39,7 +39,7 @@
 var controller = new ScrollMagic.Controller();
 
 new ScrollMagic.Scene({triggerElement: "#about", duration: $("#about").height()}).setClassToggle("#about-link", "active").addTo(controller);
-new ScrollMagic.Scene({triggerElement: "#services", duration: $("#services").height()}).setClassToggle("#services-link", "active").addTo(controller);
+new ScrollMagic.Scene({triggerElement: "#skills", duration: $("#skills").height()}).setClassToggle("#skills-link", "active").addTo(controller);
 new ScrollMagic.Scene({triggerElement: "#project", duration: $("#project").height()}).setClassToggle("#project-link", "active").addTo(controller);
 new ScrollMagic.Scene({triggerElement: "#contact", duration: $("#contact").height()}).setClassToggle("#contact-link", "active").addTo(controller);
 
@@ -54,10 +54,11 @@ $(document).ready(function(){
   }).setClassToggle('.about-text', 'about-text-animate')
   .reverse(false).addTo(controller2);
 
+  /*
   var about_scene = new ScrollMagic.Scene({
-    triggerElement: '.services-title',
+    triggerElement: '.skills-title',
     triggerHook: .7
-  }).setClassToggle('.services-title', 'section-title-animate')
+  }).setClassToggle('.skills-title', 'section-title-animate')
   .reverse(false).addTo(controller2);
 
   var about_scene = new ScrollMagic.Scene({
@@ -71,12 +72,13 @@ $(document).ready(function(){
     triggerHook: .7
   }).setClassToggle('.contact-title', 'section-title-animate')
   .reverse(false).addTo(controller2);
+  */
     
-  //Icons in Services
+  //Icons in Skills
   var about_scene = new ScrollMagic.Scene({
     triggerElement: '.trigger',
     triggerHook: .7
-  }).setClassToggle('.icon', 'service-icon-animate')
+  }).setClassToggle('.icon', 'skills-icon-animate')
   .reverse(false).addTo(controller2);
     
 });
