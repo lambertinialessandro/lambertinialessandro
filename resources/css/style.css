@@ -512,14 +512,14 @@ a {
 }
 
 .img-overlay-text {
-	position: inherit;
-	top: 50%;
-	left: 50%;
-	-webkit-transform: translate(-50%, -50%);
-	-ms-transform: translate(-50%, -50%);
-	transform: translate(-50%, -50%);
 	color: #fff;
-	text-align: center;
+	display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+	text-shadow: 0 0 3px black;
 }
 .img-overlay-text h3 {
 	margin: 0;
