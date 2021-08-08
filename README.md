@@ -5,7 +5,7 @@
 <h1>👷 Work in Progress!! 👷</h1>
 
 
-# Hi there , I'm [lambertini alessandro](https://github.com/lambertinialessandro)! 👋
+# Hi there , I'm [lambertini alessandro](https://lambertinialessandro.github.io/lambertinialessandro/)! 👋
 
 I'm a student at Sapienza University in Rome following the course in Artificial Intelligence and Robotics.
 
@@ -43,7 +43,7 @@ I'm a student at Sapienza University in Rome following the course in Artificial 
 
 # Contact me:
 
-<a href="https://github.com/lambertinialessandro">
+<a href="https://lambertinialessandro.github.io/lambertinialessandro/">
   <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
 <a href="mailto:lambertinialessandro16@gmail.com">
