@@ -1,17 +1,15 @@
 
-<h1>👷 Work in Progress!! 👷</h1>
-<h1>👷 Work in Progress!! 👷</h1>
-<h1>👷 Work in Progress!! 👷</h1>
-<h1>👷 Work in Progress!! 👷</h1>
-
-
-# Hi there , I'm [lambertini alessandro](https://lambertinialessandro.github.io/lambertinialessandro/)! 👋
+# 👋 Hi there , I'm [lambertini alessandro](https://lambertinialessandro.github.io/lambertinialessandro/)!
 
 I'm a student at Sapienza University in Rome following the course in Artificial Intelligence and Robotics.
 
+👷 WIP 👷
+
 # ⚡ Technologies
 
-## Languages
+ 👷 WIP 👷
+
+### 💬 Languages
 
 ![Java](https://img.shields.io/badge/-java-E34F26?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
@@ -30,7 +28,7 @@ I'm a student at Sapienza University in Rome following the course in Artificial 
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## Tools
+### 🛠️ Tools
 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=VisualStudio)
@@ -39,9 +37,9 @@ I'm a student at Sapienza University in Rome following the course in Artificial 
 ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
 ![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
-<br />
+# ✍🏻 Contact me:
 
-# Contact me:
+ 👷 WIP 👷
 
 <a href="https://lambertinialessandro.github.io/lambertinialessandro/">
   <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
@@ -56,8 +54,11 @@ I'm a student at Sapienza University in Rome following the course in Artificial 
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br />
-<br />
+</br>
+
+# 💡 Other Info
+
+ 👷 WIP 👷
 
 <div style="display: flex; justify-content: space-evenly; align-items: center;" >
   
