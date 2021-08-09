@@ -15,11 +15,14 @@ I'm a student at Sapienza University in Rome following the course in Artificial 
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Matlab](https://img.shields.io/badge/-Matlab-BC442C?style=flat-square&logo=matlab&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAIGym](https://img.shields.io/badge/-OpenAIGym-0081A5?style=flat-square&logo=openaigym)
+
+![Matlab](https://img.shields.io/badge/-Matlab-BC442C?style=flat-square&logo=matlab&logoColor=white)
+![OpenSim](https://img.shields.io/badge/-OpenSim-007ACC?style=flat-square&logo=opensim&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -27,6 +30,7 @@ I'm a student at Sapienza University in Rome following the course in Artificial 
 ![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
 ![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### 🛠️ Tools
 
