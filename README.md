@@ -3,11 +3,9 @@
 
 I'm a student at Sapienza University in Rome following the course in Artificial Intelligence and Robotics.
 
-👷 WIP 👷
+# ⚡ My Skils
 
-# ⚡ Technologies
-
- 👷 WIP 👷
+I learn these skills during my university's courses and in my free time as hobby.
 
 ### 💬 Languages
 
@@ -43,8 +41,6 @@ I'm a student at Sapienza University in Rome following the course in Artificial 
 
 # ✍🏻 Contact me:
 
- 👷 WIP 👷
-
 <a href="https://lambertinialessandro.github.io/lambertinialessandro/">
   <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
 </a>
@@ -62,13 +58,6 @@ I'm a student at Sapienza University in Rome following the course in Artificial 
 
 # 💡 Other Info
 
- 👷 WIP 👷
-
-<div style="display: flex; justify-content: space-evenly; align-items: center;" >
-  
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lambertinialessandro&repo=lambertinialessandro)](https://github.com/lambertinialessandro/lambertinialessandro)
-
-  <a href="https://github.com/lambertinialessandro">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambertinialessandro&theme=light&hide_langs_below=1&layout=compact&langs_count=6"/>
-  </a>
-</div>
+<a href="https://github.com/lambertinialessandro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambertinialessandro&theme=light&hide_langs_below=1&layout=compact&langs_count=6"/>
+</a>
