@@ -3,7 +3,7 @@
 
 I'm a student at Sapienza University in Rome following the course in Artificial Intelligence and Robotics.
 
-# ⚡ My Skils
+# ⚡ My Skills
 
 I learn these skills during my university's courses and in my free time as hobby.
 
