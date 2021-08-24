@@ -43,15 +43,19 @@ I learn these skills during my university's courses and in my free time as hobby
 
 <a href="https://lambertinialessandro.github.io/lambertinialessandro/">
   <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-</a>
+  <span>Website</span>
+</a></br>
 <a href="mailto:lambertinialessandro16@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+  <span>Mail</span>
+</a></br>
 <a href="https://www.instagram.com/lambertinialessandro/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  <span>Instagram</span>
+</a></br>
 <a href="https://github.com/lambertinialessandro">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <span>GitHub</span>
 </a>
 
 </br>
