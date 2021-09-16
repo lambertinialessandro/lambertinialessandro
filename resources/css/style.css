@@ -1,5 +1,6 @@
 :root {
 	--dark_gray: #454545;
+	--text_gray: #a3a3a3;
 	--blue: #2d79e5;
 }
 
@@ -69,7 +70,7 @@ h3 {
 p {
 	font-size: 16px;
 	line-height: 1.6;
-	color: #a3a3a3;
+	color: var(--text_gray);
 }
 
 ul {
@@ -92,7 +93,7 @@ a {
 
 /* Track */
 ::-webkit-scrollbar-track {
-	background: #a3a3a3;
+	background: var(--text_gray);
 	border-radius: 10px;
 }
 
@@ -329,6 +330,36 @@ a {
 
 .eduction-block {
 	margin-bottom: 15px;
+	display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+#universitySubjects{
+	margin: 15px 0 0 0;
+	padding: 0;
+	background: white;
+    border-radius: 25px;
+    box-shadow: 0 0 13px 4px white;
+	color: black;
+	border-collapse: collapse;
+}
+#universitySubjects tr:first-child td p{
+	color: black;
+	font-weight: bold;
+}
+#universitySubjects tr td{
+	padding: 2px 5px;
+	border-right: 1px solid var(--text_gray);
+}
+#universitySubjects tr td:last-child{
+	border-right: none;
+}
+@media screen and (max-width: 768px) {
+	#universitySubjects {
+		display: none;
+	}
 }
 
 .curriculumVitae {
@@ -339,7 +370,7 @@ a {
 	padding: 10px;
 	border-radius: 25px;
 	border: 2px solid black;
-	background: none;
+	background: rgb(255, 255, 255, 0.5);
 	cursor: pointer;
 	-webkit-transition: all 0.3s ease;
 	-o-transition: all 0.3s ease;
@@ -401,7 +432,7 @@ a {
 .hb:nth-child(1),
 .hb:nth-child(2),
 .hb:nth-child(3) {
-	border-bottom: 1px #a3a3a3 solid;
+	border-bottom: 1px var(--text_gray) solid;
 	padding-bottom: .5em;
 }
 .hb:nth-child(4),
@@ -412,13 +443,13 @@ a {
 
 @media screen and (max-width: 991px) {
 	.hb:nth-child(-n + 4) {
-		border-bottom: 1px #a3a3a3 solid;
+		border-bottom: 1px var(--text_gray) solid;
 	}
 }
 
 @media screen and (max-width: 768px) {
 	.hb:nth-child(5) {
-		border-bottom: 1px #a3a3a3 solid;
+		border-bottom: 1px var(--text_gray) solid;
 	}
 }
 
@@ -426,7 +457,7 @@ a {
 .vb:nth-child(2),
 .vb:nth-child(4),
 .vb:nth-child(5) {
-	border-right: 1px #a3a3a3 solid;
+	border-right: 1px var(--text_gray) solid;
 }
 
 @media screen and (max-width: 991px) {
@@ -437,7 +468,7 @@ a {
 		border-right: none;
 	}
 	.vb:nth-child(2n + 1) {
-		border-right: 1px #a3a3a3 solid;
+		border-right: 1px var(--text_gray) solid;
 	}
 }
 
@@ -464,10 +495,10 @@ a {
 	}
 }
 #filter-btn .button {
-	border: 1px #a3a3a3 solid;
+	border: 1px var(--text_gray) solid;
+	background: rgb(255, 255, 255, 0.5);
 	padding: 10px 30px 10px 30px;
 	border-radius: 500px;
-	background: none;
 	cursor: pointer;
 	outline: none;
 	-webkit-transition: all .3s ease-out;
@@ -544,7 +575,8 @@ a {
 	width: 55px;
 	height: 55px;
 	font-size: 40px;
-	border: 1px #a3a3a3 solid;
+	border: 1px var(--text_gray) solid;
+	background: rgb(255, 255, 255, 0.5);
 	border-radius: 50%;
 	color: var(--dark_gray);
 	-webkit-transition: all 0.3s ease;
@@ -569,7 +601,7 @@ a {
 		align-items: center;
 		justify-content: center;
 		align-content: center;
-		border: 4px #a3a3a3 solid;
+		border: 4px var(--text_gray) solid;
 	}
 }
 
