@@ -1,7 +1,7 @@
 
 # 👋 Hi there , I'm [lambertini alessandro](https://lambertinialessandro.github.io/lambertinialessandro/)!
 
-I'm a student at Sapienza University in Rome following the course in Artificial Intelligence and Robotics.
+I'm a student at Sapienza University in Rome following the master course in Artificial Intelligence and Robotics.
 
 # ⚡ My Skills
 
