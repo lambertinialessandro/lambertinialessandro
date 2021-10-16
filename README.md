@@ -46,6 +46,11 @@ I learn these skills during my university's courses and in my free time as hobby
   <span>Website</span>
 </a>
 <br><br>
+<a href="https://www.linkedin.com/in/lambertinialessandro16/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <span>LinkedIn</span>
+</a>
+<br><br>
 <a href="mailto:lambertinialessandro16@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   <span>Mail</span>
@@ -57,9 +62,10 @@ I learn these skills during my university's courses and in my free time as hobby
 </a>
 <br><br>
 <a href="https://github.com/lambertinialessandro">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   <span>GitHub</span>
 </a>
+
 
 </br>
 
