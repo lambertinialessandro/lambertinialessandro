@@ -44,23 +44,19 @@ I learn these skills during my university's courses and in my free time as hobby
 <a href="https://lambertinialessandro.github.io/lambertinialessandro/">
   <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   <span>Website</span>
-</a>
-<br><br>
+</a><p></p>
 <a href="https://www.linkedin.com/in/lambertinialessandro16/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   <span>LinkedIn</span>
-</a>
-<br><br>
+</a><p></p>
 <a href="mailto:lambertinialessandro16@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   <span>Mail</span>
-</a>
-<br><br>
+</a><p></p>
 <a href="https://www.instagram.com/lambertinialessandro/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   <span>Instagram</span>
-</a>
-<br><br>
+</a><p></p>
 <a href="https://github.com/lambertinialessandro">
   <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   <span>GitHub</span>
