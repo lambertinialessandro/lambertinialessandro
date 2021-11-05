@@ -67,6 +67,8 @@ I learn these skills during my university's courses and in my free time as hobby
 
 # 💡 Other Info
 
+![Profile views](https://gpvc.arturio.dev/lambertinialessandro)
+
 <a href="https://github.com/lambertinialessandro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambertinialessandro&theme=light&hide_langs_below=1&layout=compact&langs_count=6"/>
 </a>
