@@ -350,8 +350,8 @@ a {
 	font-weight: bold;
 }
 #universitySubjects tr td{
-	padding: 2px 5px;
-	border-right: 1px solid var(--text_gray);
+	padding: 2px 8px;
+	border-right: 2px solid var(--text_gray);
 }
 #universitySubjects tr td:last-child{
 	border-right: none;
@@ -592,6 +592,18 @@ a {
 	color: var(--blue);
 }
 @media screen and (max-width: 768px) {
+	.about-social {
+		margin-top: 20px;
+		margin-bottom: 20px;
+
+		display: flex;
+		align-content: center;
+		justify-content: space-around;
+		align-items: center;
+	}
+	.about-social li {
+		padding-right: 0px;
+	}
 	.about-social .fab,
 	.about-social .far {
 		width: 70px;
