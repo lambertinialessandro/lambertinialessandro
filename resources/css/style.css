@@ -392,6 +392,22 @@ a {
 	color: var(--blue);
 }
 
+#info-list-PE{
+	text-align: left;
+    padding: revert;
+    list-style: disc;
+}
+
+#info-list-PE li{
+	display: revert;
+}
+
+#info-list-PE li ul{
+	text-align: left;
+    padding: revert;
+    list-style: circle;
+}
+
 /***********************************SKILLS STYLES***********************************/
 .skills {
 	margin-bottom: 30px;
