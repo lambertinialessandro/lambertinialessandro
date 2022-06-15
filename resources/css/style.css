@@ -88,7 +88,7 @@ a {
 /***********************************SCROLL BAR STYLES***********************************/
 /* width */
 ::-webkit-scrollbar {
-	width: 5px;
+	width: 7px;
 }
 
 /* Track */
@@ -339,7 +339,7 @@ a {
 #universitySubjects{
 	margin: 15px 0 0 0;
 	padding: 0;
-	background: white;
+	background: #ffffffad;
     border-radius: 25px;
     box-shadow: 0 0 13px 4px white;
 	color: black;
@@ -350,6 +350,7 @@ a {
 	font-weight: bold;
 }
 #universitySubjects tr td{
+	width: 450px;
 	padding: 2px 8px;
 	border-right: 2px solid var(--text_gray);
 }
@@ -419,7 +420,7 @@ a {
 }
 
 .skills-block-collector {
-	background: white;
+	background: #ffffffad;
 	border-radius: 25px;
 	box-shadow: 0 0 13px 4px white;
 }
