@@ -46,7 +46,7 @@ body {
 }
 
 .accent-text {
-	font-family: "Dancing Script", cursive;
+	font-family: "Dancing Script", "fantasy";
 	color: var(--blue);
 }
 
@@ -172,7 +172,7 @@ a {
 	font-size: 27pt;
 	font-weight: bold;
 	color: var(--blue);
-	font-family: "Dancing Script", cursive;
+	font-family: "Dancing Script", "fantasy";
 }
 @media screen and (max-width: 760px) {
 	.logo {
