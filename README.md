@@ -1,43 +1,74 @@
 
-# 👋 Hi there , I'm [lambertini alessandro](https://lambertinialessandro.github.io/lambertinialessandro/)!
+# 👋 Hi there , I'm [Lambertini Alessandro](https://lambertinialessandro.github.io/lambertinialessandro/)!
 
-I'm a student at Sapienza University in Rome following the master course in Artificial Intelligence and Robotics.
+I'm a software developer currently working in the AI field.
 
 # ⚡ My Skills
 
-I learn these skills during my university's courses and in my free time as hobby.
+I learn these skills during my university courses, work and in my free time as hobby.
 
-### 💬 Languages
+### 💬 Languages and 🛠️ Tools
 
-![Java](https://img.shields.io/badge/-java-E34F26?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+<b>Web Developer</b>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-734ABC?style=flat-square&logo=redux)
+![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl)
+
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode)
+
+
+<b>Artificial Intelligence and Machine Learning Developer</b>
 
 ![Python](https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenAIGym](https://img.shields.io/badge/-OpenAIGym-0081A5?style=flat-square&logo=openaigym)
 
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+
+<b>Android Developer</b>
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
+
+
+<b>Database Manager</b>
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C2255?style=flat-square&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
+![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-787CB5?style=flat-square&logo=PHPmyadmin&logoColor=black)
+![Java](https://img.shields.io/badge/-java-E34F26?style=flat-square&logo=java)
+
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)
+![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode)
+
+
+<b>C/OOP Programmer</b>
+
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-java-E34F26?style=flat-square&logo=java)
+
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=VisualStudio)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)
+
+
+<b>Robot Programming and Simulation</b>
+
 ![Matlab](https://img.shields.io/badge/-Matlab-BC442C?style=flat-square&logo=matlab&logoColor=white)
 ![OpenSim](https://img.shields.io/badge/-OpenSim-007ACC?style=flat-square&logo=opensim&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### 🛠️ Tools
-
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=VisualStudio)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode)
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 
 # ✍🏻 Contact me:
 
