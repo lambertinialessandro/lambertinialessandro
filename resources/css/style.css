@@ -633,7 +633,7 @@ a {
     align-items: center;
     justify-content: center;
     align-content: center;
-    border: 4px var(--text_gray) solid;
+    border: none;
   }
 }
 
