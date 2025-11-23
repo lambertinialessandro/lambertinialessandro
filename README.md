@@ -1,105 +1,55 @@
 
-# 👋 Hi there , I'm [Lambertini Alessandro](https://lambertinialessandro.github.io/lambertinialessandro/)!
+# 👨‍💻 Lambertini Alessandro
 
-I'm a software developer currently working in the AI field.
+[**Portfolio Website**](https://lambertinialessandro.github.io/lambertinialessandro/)
 
-# ⚡ My Skills
+**Full-Stack & AI Software Engineer** — Experienced in industrial-grade AI, web, and embedded solutions
 
-I learn these skills during my university courses, work and in my free time as hobby.
+## 🌟 About Me
 
-### 💬 Languages and 🛠️ Tools
+I’m a passionate software developer with a strong foundation in computer science and applied artificial intelligence. 
+My background spans academic research, commercial development, and independent projects—merging technical depth with practical implementation.
 
-<b>Web Developer</b>
+## 🧠 Technical Skill Set
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-734ABC?style=flat-square&logo=redux)
-![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
-![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl)
+A combination of academic foundations, professional experience, and personal curiosity has enabled me to build a versatile and modern technical toolkit:
 
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode)
+### 🌐 Frontend Development
 
+* HTML, CSS, JavaScript, React, WebGL, TypeScript
 
-<b>Artificial Intelligence and Machine Learning Developer</b>
+### 🔧 Backend Development
 
-![Python](https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python)
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAIGym](https://img.shields.io/badge/-OpenAIGym-0081A5?style=flat-square&logo=openaigym)
+* Node.js, PHP, Python, Swift(Vapor)
 
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/-GoogleColab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+### 🧠 AI & Machine Learning
 
+* Python (scientific ecosystem), Keras, PyTorch, OpenAI Gym
 
-<b>Android Developer</b>
+### 🗄 Databases & Backend Services
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+* SQL, MySQL, PostgreSQL, MongoDB, SQL Server, phpMyAdmin
 
-![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white)
+### 💻 Firmware & Systems Programming
 
+* C, C++, Java, Bash / Shell scripting
 
-<b>Database Manager</b>
+### 🚀 DevOps & Tooling
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-2C2255?style=flat-square&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
-![MicrosoftSQLServer](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-787CB5?style=flat-square&logo=PHP&logoColor=black)
-![PHPMyAdmin](https://img.shields.io/badge/-PHPMyAdmin-787CB5?style=flat-square&logo=PHPmyadmin&logoColor=black)
-![Java](https://img.shields.io/badge/-java-E34F26?style=flat-square&logo=java)
+* Docker, GitLab CI/CD
 
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)
-![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode)
+### 📱 Android Development
 
+* Android SDK
 
-<b>C/OOP Programmer</b>
+### 🤖 Robotics & Simulation
 
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-java-E34F26?style=flat-square&logo=java)
+* MATLAB, OpenSim
 
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=VisualStudio)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse)
+## 📫 Let’s Connect
 
-
-<b>Robot Programming and Simulation</b>
-
-![Matlab](https://img.shields.io/badge/-Matlab-BC442C?style=flat-square&logo=matlab&logoColor=white)
-![OpenSim](https://img.shields.io/badge/-OpenSim-007ACC?style=flat-square&logo=opensim&logoColor=white)
-
-
-# ✍🏻 Contact me:
-
-<a href="https://lambertinialessandro.github.io/lambertinialessandro/">
-  <img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-  <span>Website</span>
-</a><p></p>
-<a href="https://www.linkedin.com/in/lambertinialessandro16/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  <span>LinkedIn</span>
-</a><p></p>
-<a href="mailto:lambertinialessandro16@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  <span>Mail</span>
-</a><p></p>
-<a href="https://www.instagram.com/lambertinialessandro/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  <span>Instagram</span>
-</a><p></p>
-<a href="https://github.com/lambertinialessandro">
-  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  <span>GitHub</span>
-</a>
-
-
-</br>
-
-# 💡 Other Info
-
-![Profile views](https://gpvc.arturio.dev/lambertinialessandro)
-
-<a href="https://github.com/lambertinialessandro">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lambertinialessandro&theme=light&hide_langs_below=1&layout=compact&langs_count=6"/>
-</a>
+* 🌐 [Website](https://lambertinialessandro.github.io/lambertinialessandro/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/lambertinialessandro16/)
+* 📧 [Email](mailto:lambertinialessandro16@gmail.com)
+* 📸 [Instagram](https://www.instagram.com/lambertinialessandro/)
+* 🧑‍💻 [GitHub](https://github.com/lambertinialessandro)
